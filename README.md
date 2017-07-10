@@ -16,7 +16,7 @@ OLLVM_Deobfuscation依赖以下环境：
 ## 0x03 Miasm vs OLLVM_Deobfuscation ##
 ### What is Miasm ###
 [Miasm](https://github.com/cea-sec/miasm)是一款基于Python的逆向框架，自身具备符号执行引擎和IR中间语言语义解析功能，能解析PE / ELF 32等多种格式，并支持X86 / ARM / MIPS / SH4 / MSP430等多种平台
-### 原理功能 ###
+#### 原理功能 ####
 Miasm和OLLVM_Deobfuscation的详细对比如下：
 <div align=center><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/Miasm%20vs%20OLLVM_Deobfuscation.png"/></div>
 
