@@ -8,6 +8,7 @@ OLLVM_Deobfuscation依赖以下环境：
 - 4)[CVC4](http://cvc4.cs.stanford.edu/web/): An efficient open-source automatic theorem prover for satisfiability modulo theories (SMT) problems.
 ## 0x02 使用 ##
 我们就以工程test文件下，经OLLVM平坦化混淆后的target_int_32_flat做反混淆测试用例，执行以下命令进行反混淆
+
 	$ workon angr
 	$ cd path_to_the/barf
 	$ python ./src/Deobfuscation.py ./test/target_int_32_flat 0x8048420
@@ -15,7 +16,12 @@ OLLVM_Deobfuscation依赖以下环境：
 ## 0x03 Miasm vs OLLVM_Deobfuscation ##
 ### What is Miasm ###
 [Miasm](https://github.com/cea-sec/miasm)是一款基于Python的逆向框架，自身具备符号执行引擎和IR中间语言语义解析功能，能解析PE / ELF 32等多种格式，并支持X86 / ARM / MIPS / SH4 / MSP430等多种平台
-### 原理功能###
+### 原理功能 ###
+Miasm和OLLVM_Deobfuscation的详细对比如下：
+<div align=center><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/Miasm%20vs%20OLLVM_Deobfuscation.png"/></div>
 
-## 0x04 效果截图 ##
-<div align=center><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/test/OLLVM%E5%8F%8D%E6%B7%B7%E6%B7%86%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE/(%E6%9C%AA%E6%B7%B7%E6%B7%86)target_int_32.png"/></div>
+### 效果截图 ###
+分别使用Miasm和OLLVM_Deobfuscation对target_int_32_flat进行反混淆，其反混淆效果截图如下所示：
+
+<div align=center> 
+<img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/test/OLLVM%E5%8F%8D%E6%B7%B7%E6%B7%86%E5%90%8E%E7%9A%84%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE/(%E6%9C%AA%E6%B7%B7%E6%B7%86)target_int_32.png" width = "300" height = "200" alt="(a)未混淆" />
