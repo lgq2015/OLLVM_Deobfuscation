@@ -37,7 +37,7 @@ Miasm和OLLVM_Deobfuscation的详细对比如下：
 
 <figure class="half">
 	<a href="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/j_x_jump_target_int_32_flat.recovered.png"><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/j_x_jump_target_int_32_flat.recovered.png" width="400" title="(d)OLLVM_Deobfuscation(j_x_jump)反混淆效果截图" /></a>
-	<a href="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/jnz_jump_target_int_32_flat.recovered.png"><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/jnz_jump_target_int_32_flat.recovered.png" title="(e)OLLVM_Deobfuscation(jnz_jump)反混淆效果截图"/></a></p>	
+	<a href="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/jnz_jump_target_int_32_flat.recovered.png"><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/jnz_jump_target_int_32_flat.recovered.png" width="400" title="(e)OLLVM_Deobfuscation(jnz_jump)反混淆效果截图"/></a></p>	
 </figure>	
 
 <center>
