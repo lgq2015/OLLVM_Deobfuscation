@@ -29,14 +29,13 @@ Miasm和OLLVM_Deobfuscation的详细对比如下：
 	<a href="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32_flat.png"><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32_flat.png" width="400" title="(b)OLLVM平坦化混淆后" /></a></p>		
 </figure>
                        
+<center><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/Miasm%20Deobfuscation%20.png" title="(c)Miasm反混淆效果截图"/></center>
+<center><font color=grey>** (c)Miasm反混淆效果截图 **</font></center>
 
-
-
-<div align=center> <img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/Miasm%20Deobfuscation%20.png" title="(c)Miasm反混淆效果截图"/></div>
-
-<div align=center> <img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/j_x_jump_target_int_32_flat.recovered.png" title="(d)OLLVM_Deobfuscation(j_x_jump)反混淆效果截图"/></div>
-
-<div align=center> <img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/jnz_jump_target_int_32_flat.recovered.png" title="(e)OLLVM_Deobfuscation(jnz_jump)反混淆效果截图"/></div>
+<figure class="half">
+	<a href="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/j_x_jump_target_int_32_flat.recovered.png"><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/j_x_jump_target_int_32_flat.recovered.png" width="400" title="(d)OLLVM_Deobfuscation(j_x_jump)反混淆效果截图" /></a>
+	<a href="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/jnz_jump_target_int_32_flat.recovered.png"><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/jnz_jump_target_int_32_flat.recovered.png" title="(e)OLLVM_Deobfuscation(jnz_jump)反混淆效果截图"/></a></p>	
+</figure>	
 
 <img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/OLLVM_Deobfuscation%20Screenshots/OLLVM_Deobfuscation%E5%8F%8D%E6%B7%B7%E6%B7%86%E5%90%8E%E7%9A%84%E6%96%87%E4%BB%B6%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE.png" title="(f)OLLVM_Deobfuscation反混淆文件运行截图"/>
-
+<center><font color=grey>** (f)OLLVM_Deobfuscation反混淆文件运行截图 **</font></center>
