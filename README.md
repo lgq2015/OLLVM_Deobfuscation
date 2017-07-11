@@ -45,3 +45,10 @@ Miasm和OLLVM_Deobfuscation的详细对比如下：
 	<font color=grey>  　　　　　　　　　　　　　　　　　　　　(f)OLLVM_Deobfuscation反混淆文件运行截图 </font>
 </center>
 
+## 0x04 Reference ##
+
+- [1]Deobfuscation: recovering an OLLVM-protected program: [https://blog.quarkslab.com/deobfuscation-recovering-an-ollvm-protected-program.html](https://blog.quarkslab.com/deobfuscation-recovering-an-ollvm-protected-program.html)
+- [2]反混淆：恢复被OLLVM保护的程序: [http://www.freebuf.com/articles/terminal/130142.html](http://www.freebuf.com/articles/terminal/130142.html)
+- [3]angr API documentation: [http://angr.io/api-doc/](http://angr.io/api-doc/)
+- [4]angr-doc: [https://github.com/angr/angr-doc/blob/master/docs/states.md](https://github.com/angr/angr-doc/blob/master/docs/states.md)
+- [5]BARF : Binary Analysis and Reverse engineering Framework[https://github.com/programa-stic/barf-project](https://github.com/programa-stic/barf-project)
