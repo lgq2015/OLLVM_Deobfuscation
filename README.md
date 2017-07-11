@@ -29,8 +29,8 @@ Miasm和OLLVM_Deobfuscation的详细对比如下：
 </figure>
 
 <figure class="half">
-	<img title="(a)未混淆" />
-	<img title="(b)OLLVM平坦化混淆后" />
+	<font color=grey>**(a)未混淆**</font>
+	<font color=grey>**(b)OLLVM平坦化混淆后**</font>
 </figure>
 
 
