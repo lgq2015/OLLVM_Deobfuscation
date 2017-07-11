@@ -26,7 +26,7 @@ Miasm和OLLVM_Deobfuscation的详细对比如下：
 <figure class="half">
 	<a href="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32.png"><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32.png" width="400" title="(a)未混淆" /></a>
 	<a href="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32_flat.png"><img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32_flat.png" width="400" title="(b)OLLVM平坦化混淆后" /></a></p>
-	<center>(a)未混淆　　　　　　　　　　　　　　　　　　　　　　　　　　　　(b)OLLVM平坦化混淆后</center>
+	<center>　　　　(a)未混淆　　　　　　　　　　　　　　　　　　　　　　　　　　(b)OLLVM平坦化混淆后</center>
 </figure>
                        
 <center>
