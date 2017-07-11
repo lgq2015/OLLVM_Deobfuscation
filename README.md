@@ -1,5 +1,5 @@
 # OLLVM_Deobfuscation
-OLLVM_Deobfuscation 是一款[OLLVM](https://github.com/obfuscator-llvm/obfuscator/tree/llvm-3.6.1)反混淆工具，目前已经能完美实现x86架构Linux平台下被ollvm混淆过的C/C++代码的反混淆，后续将逐步尝试Android SO文件的反混淆
+OLLVM_Deobfuscation 是一款基于Python的[OLLVM](https://github.com/obfuscator-llvm/obfuscator/tree/llvm-3.6.1)反混淆工具，目前已经能完美实现x86架构Linux平台下被ollvm混淆过的C/C++代码的反混淆，后续将逐步尝试Android SO文件的反混淆
 ## 0x01 安装 ##
 OLLVM_Deobfuscation依赖以下环境：
 - 1)[angr](http://angr.io/): a python framework for analyzing binaries.
