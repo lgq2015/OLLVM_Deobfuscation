@@ -24,9 +24,9 @@ Miasm和OLLVM_Deobfuscation的详细对比如下：
 分别使用Miasm和OLLVM_Deobfuscation对target_int_32_flat进行反混淆，其反混淆效果截图如下所示：
 
 <div align=center> 
-<img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32.png"  height="600" width="450" alt="(a)未混淆">
+<img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32.png"  height="330" width="190" alt="(a)未混淆">
 
-<img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32_flat.png"  height="600" width="450" alt="(b)OLLVM平坦化混淆后">
+<img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/target_int_32_flat.png"  height="330" width="190" alt="(b)OLLVM平坦化混淆后">
 </div>
 
 <div align=center> <img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/Miasm%20Deobfuscation%20.png" alt="(c)Miasm反混淆效果截图"/></div>
