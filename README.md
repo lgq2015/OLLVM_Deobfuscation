@@ -29,8 +29,8 @@ Miasm和OLLVM_Deobfuscation的详细对比如下：
 	<left><font color=grey>(a)未混淆</font></left>
 	<right><font color=grey>(b)OLLVM平坦化混淆后</font></right>
 </figure>
-<left><font color=grey>(a)未混淆</font></left>
-<right><font color=grey>(b)OLLVM平坦化混淆后</font></right>
+<center><font color=grey>(a)未混淆</font></center><center><font color=grey>(b)OLLVM平坦化混淆后</font></center>
+
 
 
 <div align=center> <img src="https://github.com/SCUBSRGroup/OLLVM_Deobfuscation/blob/master/Miasm%20vs%20OLLVM_Deobfuscation/Miasm%20Deobfuscation%20.png" title="(c)Miasm反混淆效果截图"/></div>
